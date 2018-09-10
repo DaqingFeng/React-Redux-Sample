@@ -4,7 +4,7 @@ For beginners like me to learn the concepts in [Redux](https://github.com/reactj
 
 To run this example:
 
-1. [Download this repo]  `git clone git clone https://github.com/jackielii/simplest-redux-example.git`
+1. [Download this repo]  `git clone git clonehttps://github.com/DaqingFeng/React-Redux-Sample.git`
 2. From the repo folder run:  
    `npm install`
 3. `npm start`
