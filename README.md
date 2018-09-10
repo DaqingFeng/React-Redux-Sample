@@ -12,8 +12,10 @@ To run this example:
 
 
 * Contians two operation.
-     <img src="https://raw.githubusercontent.com/DaqingFeng/React-Redux-Sample/master/image/redux01.png">
-     
+   None Wrap/Wrap the store's dispatch
+  <img src="https://github.com/DaqingFeng/React-Redux-Sample/blob/master/iamge/redux01.png">
+ 
+  <img src="https://github.com/DaqingFeng/React-Redux-Sample/blob/master/iamge/redux02.png">
 
 
 And also head over to http://redux.js.org/ for some great documentation.
