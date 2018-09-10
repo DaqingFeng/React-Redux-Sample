@@ -13,6 +13,7 @@ To run this example:
 
 * Contians two operation.
    None Wrap/Wrap the store's dispatch
+   
   <img src="https://github.com/DaqingFeng/React-Redux-Sample/blob/master/iamge/redux01.png">
  
   <img src="https://github.com/DaqingFeng/React-Redux-Sample/blob/master/iamge/redux02.png">
