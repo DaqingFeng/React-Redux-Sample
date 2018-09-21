@@ -146,7 +146,7 @@ function matchDispatchToProps(dispatch) {
     //dispatch inner logic
     actions: bindActionCreators(IncreaseCreateAction, dispatch),
     //dispatch logic
-    onIncreaseClick: (dataValue) => dispatch(IncreaseAction(dataValue))
+    onIncreaseClick: bindActionCreators(IncreaseAction, dispatch)
   };
 }
 
